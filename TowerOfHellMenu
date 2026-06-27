@@ -9,7 +9,7 @@ local healthConnection = nil
 local jumpHeight = 5
 
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "DeltaCheatGUI"
+ScreenGui.Name = "TowerOfHell733863"
 ScreenGui.ResetOnSpawn = false
 ScreenGui.Parent = localPlayer:WaitForChild("PlayerGui")
 
